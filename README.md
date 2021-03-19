@@ -28,13 +28,9 @@ Technologies and tools used in project development :
 - [TypeScript](https://www.typescriptlang.org/)
 - [Expo](https://expo.io/)
 
-<br>
-
 ## Installation and use
 
-  * [NodeJS](https://nodejs.org/en/)
-
-  * 🚧 Obs: This application was tested only on android! 🚧
+  * [NodeJS LTS](https://nodejs.org/en/)  
 
 ```bash
 # Install CLI expo
@@ -57,6 +53,8 @@ $ yarn install
 $ expo start
 ```
 * ### Download the client for run application
+
+  * 🚧 Obs: This application was tested only on android! 🚧
 
   * [Expo Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)
 
