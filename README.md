@@ -32,33 +32,36 @@ Technologies and tools used in project development :
 
 ## Installation and use
 
-* ### Download the client for run application
-
-  *  [Expo Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)
-
-  * [Expo IOS](https://apps.apple.com/br/app/expo-client/id982107779)
-  
-  * [NodeJS](https://nodejs.org/en/) 
+  * [NodeJS](https://nodejs.org/en/)
 
   * 🚧 Obs: This application was tested only on android! 🚧
 
 ```bash
+# Install CLI expo
+$ npm install expo-cli --global
+
+# Install Yarn Package
+$ npm install yarn --global
+
 # Clone repository
 $ git clone https://github.com/LuanPiresBresolla/programmer-academy-2021
 # or use option of download.
-
-# Install CLI expo
-$ npm install expo-cli --global
 
 # Enter the folder with
 $ cd programmer-academy-2021
 
 # Install the dependencies
-$ npm install or yarn install
+$ yarn install
 
 # Starting application server
 $ expo start
 ```
+* ### Download the client for run application
+
+  * [Expo Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)
+
+  * [Expo IOS](https://apps.apple.com/br/app/expo-client/id982107779)
+  
   * With the server started expo, automatic go open  a window browse. With your cell phone, open the expo app and scan the QR Code. Then the application will start.
 
 <br>
