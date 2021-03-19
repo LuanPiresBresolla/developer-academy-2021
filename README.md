@@ -38,7 +38,7 @@ Technologies and tools used in project development :
 
   * [Expo IOS](https://apps.apple.com/br/app/expo-client/id982107779)
 
-* 🚧 Obs: This application was tested only on android! 🚧
+  * 🚧 Obs: This application was tested only on android! 🚧
 
 ```bash
 # Clone repository
@@ -57,6 +57,7 @@ $ npm install or yarn install
 # Starting application server
 $ expo start
 ```
+  * With the server started expo, automatic go open  a window browse. With your cell phone, open the expo app and scan the QR Code. Then the application will start.
 
 <br>
 
