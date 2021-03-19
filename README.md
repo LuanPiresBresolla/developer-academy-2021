@@ -37,6 +37,8 @@ Technologies and tools used in project development :
   *  [Expo Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)
 
   * [Expo IOS](https://apps.apple.com/br/app/expo-client/id982107779)
+  
+  * [NodeJS](https://nodejs.org/en/) 
 
   * 🚧 Obs: This application was tested only on android! 🚧
 
